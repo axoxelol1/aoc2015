@@ -1,0 +1,5 @@
+- Day1: OCaml
+- Day2: Go
+- Day3: JavaScript
+- Day4: erlang
+- Day5: C
