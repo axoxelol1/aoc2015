@@ -3,3 +3,6 @@
 - Day3: JavaScript
 - Day4: erlang
 - Day5: C
+- Day6: Python
+- Day7: Ruby
+- Day8: perl
